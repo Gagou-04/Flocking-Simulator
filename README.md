@@ -7,7 +7,7 @@ Dans ce projet on modélise et on simule le comportement de _Flocking_
 
 ### Modèle dynamique
 
-![Modèle dynamique](https://latex.codecogs.com/svg.image?\dpi{120}&space;\begin{cases}&space;\dot{q}&space;=&space;v&space;\\&space;\\;\dot{v}&space;=&space;u&space;\end{cases})
+![Modèle dynamique](https://latex.codecogs.com/svg.image?\dpi{120}&space;\begin{cases}&space;\dot{q}&space;=&space;v&space;\\&space;\dot{v}&space;=&space;u&space;\end{cases})
 
 ### Le vecteur position
 
